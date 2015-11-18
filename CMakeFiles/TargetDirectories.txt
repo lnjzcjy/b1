@@ -1,0 +1,2 @@
+/home/cjy/b1_10p02/CMakeFiles/B1.dir
+/home/cjy/b1_10p02/CMakeFiles/exampleB1.dir
